@@ -51,7 +51,7 @@ nav a.active {
 
 /* خلفيات مميزة لكل زر */
 #homeLink {
-    background-image: url('D:\html5\images\web1.jpg');
+    background-image: url('"D:\html5\web2.jpg"');
     background-size: cover;
     background-position: center;
 }
@@ -63,7 +63,7 @@ nav a.active {
 }
 
 #projectsLink {
-    background-image: url('D:\html5\images\web1.jpg');
+    background-image: url('D:\html5\web2.jpg');
     background-size: cover;
     background-position: center;
 }
